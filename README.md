@@ -1,7 +1,9 @@
 # app-dev - Navarro, Deane Adrian N.
 ## my first repository
-### Harry Potter Series
+### *Harry Potter Series*
+---
 **Introduction**
+
 The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.
 
 ---
@@ -15,3 +17,8 @@ The novels chronicle the lives of a young wizard, Harry Potter, and his friends 
 
 ---
 
+**Characters**
+- Harry Potter
+- Lord Voldemort
+- Ron Weasley
+- Hermione Granger
